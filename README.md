@@ -4,3 +4,4 @@
 1000 research react native
 1030 research react native
 1100 research react native
+1130 install xcode
