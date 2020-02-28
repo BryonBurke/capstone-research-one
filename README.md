@@ -8,3 +8,4 @@
 1200 install xcode
 130 install android studio
 200 trouble shoot cocoa pods
+235 trouble shoot cocoa pods
